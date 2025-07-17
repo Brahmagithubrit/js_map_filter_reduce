@@ -3,8 +3,7 @@ Try in editor format to run and interact -  https://g.co/gemini/share/9499ce2181
 Try info in structure - 
 https://g.co/gemini/share/be75538ad687
 
-Try audio instead -
-https://g.co/gemini/share/5b735ff46098
+
 
 Try quiz - 
 https://g.co/gemini/share/0266b8dcb8cb
